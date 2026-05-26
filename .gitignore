@@ -1,0 +1,16 @@
+# Local/runtime data
+zinstaller/runtime/
+zinstaller/config/zinstaller.conf
+
+# Backups and temporary deployment files
+*.bak
+*.bak-*
+*.pre-server-sync
+*.codex-new
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
